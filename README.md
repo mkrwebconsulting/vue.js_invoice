@@ -1,7 +1,8 @@
 # Invoice App
 
 created with Vue.js, vuex and vue-router. 
-Database hosted at Firebase. Webapp deployed with AWS Amplify.
+Database hosted at Firebase. 
+Webapp deployed with AWS Amplify.
 
 ## Project setup
 ```
