@@ -4,6 +4,8 @@ created with Vue.js, vuex and vue-router.
 Database hosted at Firebase. 
 Webapp deployed with AWS Amplify.
 
+Check the result at: https://main.d1w29bto1kfctj.amplifyapp.com/
+
 ## Project setup
 ```
 npm install
